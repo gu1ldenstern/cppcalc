@@ -1,0 +1,3 @@
+Implementation of the extended version of the standard calculator in C++ in the object-oriented programming paradigm. In addition to basic arithmetic operations such as add/subtract and multiply/divide, the calculator is supplemented with the ability to calculate arithmetic expressions by following the order, as well as some mathematical functions (sine, cosine, logarithm, etc.). Besides calculating expressions, the use of the x variable and the graphing of the corresponding function are also supported.
+
+Dijkstra's algorithm is used to translate expressions into reverse Polish notation to implement the calculator. The program uses MVC logic.
